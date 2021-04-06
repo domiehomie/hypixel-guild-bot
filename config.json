@@ -1,0 +1,17 @@
+{
+  "discord": {
+    "general": {
+      "prefix": "g!"
+    },
+    "channels": {
+      "chat": "828701524657045525",
+      "officerchat": "828701608207843358"
+    }
+  },
+  "minecraft": {
+    "host": "localhost",
+    "username": "B0T",
+    "password": "",
+    "auth": "mojang"
+  }
+}
